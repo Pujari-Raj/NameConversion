@@ -1,4 +1,4 @@
-## This is Accordion App which was given as task in FSJSBootcamp.
+## This is NameConversion App which was given as task in FSJSBootcamp.
 
 
 Technologies/ Tools Used:
